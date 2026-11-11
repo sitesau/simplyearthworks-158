@@ -1,0 +1,22 @@
+{
+  "wheel_id": 872,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-158",
+  "project": "earthmoving-services-adelaide-diy-vs-professional-4f684f9a49425",
+  "parent_t1_ref": "simplyearthworks-013",
+  "node_role": "buffer",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide diy vs professional",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-diy-vs-professional-4f684f9a49425/",
+  "tier": "T2",
+  "writeback_nonce": "ca69d387740534a1",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/earthmoving-services-adelaide-simplyearthworks-013/",
+      "anchor": "Earthmoving Services Adelaide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
